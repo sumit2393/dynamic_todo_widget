@@ -227,18 +227,6 @@ class _DynamicFormState extends State<DynamicForm> {
                             }
                         ),
                       ),
-                      Padding(
-                        padding: const EdgeInsets.all(8.0),
-                        child: RaisedButton(
-                          color: Colors.blueAccent,
-                          child: Text("Submit", style:TextStyle(color: Colors.white,fontWeight: FontWeight.bold)),
-                          onPressed: (){
-                            print('Login tapped!!!!!!!!!');
-//                          print('response: '+response.toString());
-                            print('formDataFS: '+ formDataFS.toString());
-                            },
-                          ),
-                      ),
 
                     ],
                   );
