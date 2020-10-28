@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859517347283",
+    "firebase_url": "https://dynamicform-a2fb4.firebaseio.com",
+    "project_id": "dynamicform-a2fb4",
+    "storage_bucket": "dynamicform-a2fb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859517347283:android:7d3a47f989980a1a7f3b26",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_widget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859517347283-b5pqjvu5p030s0r6mri4tpam4t6fquio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIE3swjXdUGqw6h-zis63Zy4inLVfR74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859517347283-b5pqjvu5p030s0r6mri4tpam4t6fquio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
